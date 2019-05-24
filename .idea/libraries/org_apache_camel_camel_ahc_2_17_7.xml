@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="org.apache.camel:camel-ahc:2.17.7" type="repository">
+    <properties maven-id="org.apache.camel:camel-ahc:2.17.7" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/camel-ahc-2.17.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/camel-core-2.17.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxb-core-2.2.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxb-impl-2.2.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/async-http-client-1.9.35.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-3.10.6.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apt-2.17.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spi-annotations-2.17.7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/camel-ahc-2.17.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/camel-ahc-2.17.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
