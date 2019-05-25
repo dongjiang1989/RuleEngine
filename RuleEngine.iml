@@ -13,8 +13,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="groovy-2.5.7" level="application" />
-    <orderEntry type="library" name="org.apache.camel:camel-groovy:2.17.7" level="project" />
-    <orderEntry type="library" name="org.apache.camel:camel-ahc:2.17.7" level="project" />
+    <orderEntry type="library" exported="" name="groovy-2.5.7" level="application" />
+    <orderEntry type="library" exported="" name="org.apache.camel:camel-groovy:2.17.7" level="project" />
+    <orderEntry type="library" exported="" name="org.apache.camel:camel-ahc:2.17.7" level="project" />
   </component>
 </module>

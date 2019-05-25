@@ -1,10 +1,10 @@
-package com.huawei.rtc.rule.transform
+package com.huawei.rtc.rule.transform;
 
-import org.codehaus.groovy.ast.ASTNode
-import org.codehaus.groovy.control.CompilePhase
-import org.codehaus.groovy.control.SourceUnit
-import org.codehaus.groovy.transform.ASTTransformation
-import org.codehaus.groovy.transform.GroovyASTTransformation
+import org.codehaus.groovy.ast.ASTNode;
+import org.codehaus.groovy.control.CompilePhase;
+import org.codehaus.groovy.control.SourceUnit;
+import org.codehaus.groovy.transform.ASTTransformation;
+import org.codehaus.groovy.transform.GroovyASTTransformation;
 
 /**
  * Created by dongjiang on 2019/5/24.
