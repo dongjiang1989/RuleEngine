@@ -29,8 +29,6 @@ public class RouteBuilderExtension {
      * @param defineRoutePrototype route definition after 'from'
      */
     public static void from(final RouteBuilder self, final String uri, final Closure defineRoutePrototype) {
-        // Should not need to clone as it's unlikely that this closure will be invoked in multiple threads
-        // (or even multiple times), but I want to keep this as a reference/reminder
         Closure defineRoute = (Closure) defineRoutePrototype.clone();
 
         RouteDefinition routeDefinition = self.from(uri);

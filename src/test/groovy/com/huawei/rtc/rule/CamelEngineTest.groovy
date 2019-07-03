@@ -1,8 +1,8 @@
 package com.huawei.rtc.rule
+
 import org.apache.camel.CamelContext
 import org.apache.camel.impl.DefaultCamelContext
 import org.junit.Test
-
 /**
  * Created by dongjiang on 2019/5/24.
  */
